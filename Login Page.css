@@ -1,0 +1,26 @@
+.title {
+    padding-top: 10%;
+    padding-bottom: 15%;
+    font-size: 40px;
+    font-family: monospace;
+    color: rgb(127, 125, 125);
+    background-color: beige;
+}
+
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+form {
+    float: center;
+}
+
+input {
+    text-align: center;
+    font-style: italic;
+    color: grey;
+    font-size: 10px;
+    padding: 3px;
+    font-family: monospace;
+}
