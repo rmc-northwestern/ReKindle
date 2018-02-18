@@ -1,0 +1,33 @@
+.header a {
+	text-decoration: none;
+	color: #fcfc62;
+}
+
+.header {
+	background-color: #2774c4;
+	color: #FFFFFF;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.header h1 {
+	text-align: center;
+	display: inline;
+}
+
+table {
+	width: 100%;
+	background-color: #FFFFFF;
+}
+
+th {
+	text-align: center;
+	border-bottom: 1px solid #ddd;
+}
+
+td {
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
