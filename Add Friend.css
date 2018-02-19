@@ -28,6 +28,7 @@ a {
 }
 
 .add {
+	float: left;
 	color: black;
 	background-color:lightblue;
 	border-style: solid;
@@ -45,7 +46,28 @@ a {
 }
 
 .add h2 {
-	font-size: 75%;
+	font-size: 90%;
 	margin-left: 5px;
 	margin-right: 5px;
+}
+
+.added {
+	float: left;
+	color: black;
+	background-color:lightpink;
+	border-style: solid;
+	border-radius: 5px;
+	border-color: lightcyan;
+	text-align: center;
+	margin: 3%;
+	width: 120px;
+	height: 120px;
+}
+
+
+.added h2 {
+	font-size: 120%;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-top: 35px;
 }
