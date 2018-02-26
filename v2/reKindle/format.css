@@ -82,6 +82,37 @@ body {
 	display: inline-block;
 }
 
+/* .search {
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+	margin-right: 5px;
+} */
+
+.search {
+	margin-bottom: 0px;
+}
+
+.search input[type=text] {
+	width: 87%;
+	display: inline-block;
+	margin-left: 5px;
+	font-size: 19px;
+}
+
+.search-button {
+	display: inline;
+	background: #ddd;
+	cursor: pointer;
+	padding: 0px;
+	float: right;
+	margin-right: 5px;
+}
+
+.search-button:hover {
+	background: #ccc;
+}
+
 .songs-album-art {
 	height: 140px;
 	width: 140px;
@@ -90,7 +121,7 @@ body {
 
 .contact_list_title {
 	font-weight: bold;
-	font-size: 25px;
+	font-size: 20px;
 	text-align: left;
 	padding-left: 10px;
 	width: 145px;
@@ -125,8 +156,9 @@ body {
 }
 
 .list-of-names {
-	padding-left: 30px;
+	padding-left: 5px;
 	list-style-type: none;
+	margin-top: 5px;
 }
 
 /*
