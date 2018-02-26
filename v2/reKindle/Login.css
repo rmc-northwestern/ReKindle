@@ -1,0 +1,47 @@
+body
+{
+    text-align: center;
+    background-image: url("images/iphoneOL.jpg");
+    background-repeat: no-repeat; 
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+#screen
+{
+    height: 530px;
+    width: 300px;
+    margin: 105px 23px;
+    background-color: black;
+}
+
+.title
+{
+    text-align: center;
+    padding: 30px;
+    font-size: 50pt;
+}
+
+form
+{
+    float: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    position: relative;
+    top: 200px;
+}
+
+.input
+{
+    width: 45%;
+    margin-left: 5px;
+    margin-bottom: 30px;
+    position: relative;
+}
+
+em
+{
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    top: 220px;
+}
