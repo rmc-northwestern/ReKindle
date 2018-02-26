@@ -7,6 +7,10 @@ body {
 	font-family: Avenir, sans-serif;
 }
 
+a {
+	text-decoration: none;
+}
+
 
 #screen {
 	height: 530px;
@@ -22,6 +26,18 @@ body {
 	font-family: 'Roboto', sans-serif;
 	height: 50px;
 	padding: 1px;
+}
+
+.head-bar img {
+	height: 35px;
+	width: 40px;
+	float: left;
+	padding: 3px;
+	padding-right: 0px;
+}
+
+#title {
+	margin-right: 35px;
 }
 
 .head-bar2 {
@@ -159,6 +175,20 @@ body {
 	padding-left: 5px;
 	list-style-type: none;
 	margin-top: 5px;
+}
+
+.list-of-names a {
+	text-decoration: none;
+}
+
+/*
+	Error
+			*/
+
+.error-message {
+	color: #ddd;
+	text-align: center;
+	margin-top: 100px;
 }
 
 /*
